@@ -12,5 +12,7 @@ Note : Please Follow the below guidelines to create task folders
 | Task No| Task Name | Details |
 |-|-|-|
 |1|task-1-data_visualization         |For all in-task visualization         |
-|2|         |         |
-|3|         |         |
+|2|task-2-estimate_energy_demand         |All Code files to analyze population vs consumption data and build AI models to predict power consumption|
+|3|data-2_1-estimate_organisation_demand  |All code files
+•Identify  regions  of  potential  major  users  of  the  solar  panels
+(businesses, schools, internally displaced person camps)          |
