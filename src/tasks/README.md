@@ -13,4 +13,5 @@ Note : Please Follow the below guidelines to create task folders
 |-|-|-|
 |1|task-1-data_visualization         |For all in-task visualization         |
 |2|task-2-estimate_energy_demand |Code files to analyze population vs consumption data and build AI models to predict power consumption|
-|3|task-2_1-estimate_organisation_demand |code files Identify regions of potential solar panels(businesses,schools,displaced person camps)|
+|3|task-2_1-estimate_organisation_demand |code files to Identify regions of potential solar panels(businesses,schools,displaced person camps)|
+|4|task-2_2-night_time_masking|Estimate energy demand by finding villages not lit up at night time computed over a period of time and build a country wide grid.|
