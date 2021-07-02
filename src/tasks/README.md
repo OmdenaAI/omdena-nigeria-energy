@@ -11,6 +11,6 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
+|1|task-1-data_visualization         |For all in-task visualization         |
 |2|         |         |
 |3|         |         |
