@@ -1,0 +1,4 @@
+,NAME_2,Average Nighttime mean,system:index,AREA,NAME_3,Latitude,Longitude,PERIMETER,Population,population density,clusters,cluster labels
+386,Gwale,13.30747521,139,23.81,Kano,11.96826402,8.468683485,23.055,825782.9281,34682.18934,3,moderate_high_intensity
+399,Nassarawa,17.91251811,133,19.019,Kano,12.00588309,8.508378021,21.054,641461.4104,33727.39946,3,moderate_high_intensity
+506,Ajeromi-Ifelodun,10.49726575,574,11.645,Lagos,6.466175056,3.324312762,13.097,314222.5886,26983.47691,3,moderate_high_intensity
